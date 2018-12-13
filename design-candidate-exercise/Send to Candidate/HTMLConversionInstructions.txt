@@ -1,0 +1,41 @@
+** Instructions: 
+Please convert the homepage mockup into to a fully functioning static webpage.
+
+** Assets included: 
+1. JPG of homepage mockup (mockup-exercise.jpg)
+2. 4 banner images for banner image carousel (banner-image.jpg – banner-image4.jpg)
+3. Map image for "Where We Work" section (work-map.jpg)
+4. Map image for footer (map.jpg)
+5. Example of navigation menu hover state (mockup-exercise-nav-hover.jpg)
+
+** Requirements:
+1. Standards compliant, validated:
+   - HTML: Will be validated using https://validator.w3.org/
+   - CSS: Will be validated using http://jigsaw.w3.org/css-validator/
+   - Javascript/jQuery: Will be validated by checking for errors in the browser console
+2. Responsive Design
+   - The design should function properly and degrade gracefully on desktop, tablets, and mobile phones
+3. Implementation of a banner image carousel
+4. Implementation of navigation menu hover state with at least one submenu, where the submenu items are also links (see example within assets folder)
+5. Use of FontAwesome for icons (https://fontawesome.com/v4.7.0/get-started/)
+6. Use of Google Fonts Noticia Text and Open Sans
+
+** Other Criteria for Evaluation: 
+In addition to the requirements listed above, we will be reviewing your code to see how you structure the elements and approach the various styling treatments used.
+
+**Extra Credit Options:
+1. Set up SASS file structure and nest style sets (does NOT have to be compiled)
+2. Sticky navigation (navigation sticks to top of browser window upon scroll)
+
+** Deliverables: 
+1. HTML, CSS, and jQuery files 
+2. If you'd like to provide an explanatory notes about your conversion, include them in a .txt file
+3. Complete the submission form (http://somapps.med.upenn.edu/apps/form/somiswebteam/view.php?id=32259)
+   - Options for providing your files: 
+       - Compress all files into a .zip file named using the following convention: lastname_firstname.zip, and upload, or
+       - Provide the web address if you're hosting the files on your website
+4. Please submit your work within one week of receipt of this exercise
+
+** Thank you for your time!
+
+ 
