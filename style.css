@@ -36,7 +36,7 @@ align-items: flex-start;
 #middle{
     display:flex;
     border 10px solid white;
-    height: 100vh;
+    height: 50vh;
     align-items: flex-start;
 }
 
