@@ -16,7 +16,7 @@ background-color: light grey;
 #middle{
     display:flex;
     border 10px solid white;
-    height: 400vh;
+    height: 100vh;
     align-items: flex-start;
 }
 
