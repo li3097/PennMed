@@ -43,7 +43,7 @@ h1 {
     align-items:flex-end;
 }
 
-#banner {
+#carousel-innner {
     background-color: light grey;
     display:flex;
     border: 10px solid;
@@ -52,7 +52,7 @@ h1 {
     padding:20px;
     margin:20px;
 }
-#banner > img:rotate{
+#carousel > img{
     width: 1030px;
     height: 300px;
 }
