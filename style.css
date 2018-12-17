@@ -81,16 +81,26 @@ h1 {
     margin:20px; 
 }
 
-#funding ul left{
-    
+#funding-left{
+    width: 50%;
 }
+
+funding-right{
+    width: 50%;
+}
+
 #events{
     background-color: #3398CC;
     padding:20px;
     margin:20px;
 }
-#events date{
+#events-left{
     text-decoration-color: #95A77D;
+    width: 25%;
+}
+#events-right{
+    text-decoration-color: white;
+    width: 75%;
 }
 
 #bottom {
