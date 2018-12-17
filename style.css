@@ -30,13 +30,13 @@ height: 10vh;
 align-items: flex-start;
 }
 #banner > img:hover{
-    
+
 }
 
 #middle{
     display:flex;
     border 10px solid white;
-    height: 10vh;
+    height: 100vh;
     align-items: flex-start;
 }
 
