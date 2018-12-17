@@ -74,12 +74,12 @@ h1 {
 }
 
 #events{
-    background-color: blue;
+    background-color: lightblue;
     padding:20px;
     margin:20px;
 }
 #bottom {
-    background-color: blue;
+    background-color: lightblue;
     display:flex;
     align-items: flex-center;
     padding:20px;
