@@ -11,7 +11,7 @@ h1 {
 
 #nav {
     background-color: red;
-    text-color:white;
+    text-decoration-color: white;
 }
 #nav >menu:hover{
     color:blue
@@ -43,6 +43,7 @@ h1 {
     align-items:flex-end;
 }
 
+
 #carousel-innner {
     background-color: light grey;
     display:flex;
@@ -55,6 +56,11 @@ h1 {
 #carousel > img{
     width: 1030px;
     height: 300px;
+}
+
+#carousel-inner a href{
+    text-align: center;
+    text-decoration-color: red;
 }
 
 #middle{
