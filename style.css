@@ -50,17 +50,17 @@ align-items: flex-start;
 #contact {
     color: grey;
     background-image: url("map.jpg");
-    width: 200px
+    width: 33%;
 }
 #links{
-    width: 200px;
+    width: 33%;
 }
 #social{
     display:flex;
     border 10px solid;
     height: 10vh;
     align-items: flex-start;
-    width: 200px;
+    width: 33%;
 }
 #footer {
     background-color: green;
