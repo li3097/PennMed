@@ -22,13 +22,20 @@ h1 {
     align-items:flex-center;
 }
 
-.header input[type=text]{
+#logo{
+    align-items:flex-start;
+}
+#name{
+    align-items:flex-center;
+}
+#search input[type=text]{
     float: right;
     padding: 6px;
     border: none;
     margin-top: 8px;
     margin-right: 16px;
     font-size: 12px;
+    align-items:flex-end;
 }
 
 #banner {
