@@ -13,12 +13,16 @@ h1 {
 #banner {
 background-color: light grey;
 }
+#middle{
+    display:flex;
+}
 
 #events{
     background-color: blue;
 }
 #bottom {
     background-color: blue;
+    display:flex;
 }
 #footer {
     background-color: navy;
