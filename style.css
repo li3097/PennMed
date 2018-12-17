@@ -11,5 +11,15 @@ h1 {
 }
 
 #banner {
-background-color: grey;
+background-color: light grey;
+}
+
+#events{
+    background-color: blue;
+}
+#bottom {
+    background-color: blue;
+}
+#footer {
+    background-color: navy;
 }
