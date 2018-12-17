@@ -20,13 +20,18 @@ h1 {
 #header{
     display:flex;
     align-items:flex-center;
+    padding: 20px;
+    margin: 20px;
 }
 
 #logo{
     align-items:flex-start;
+    padding: 20px;
+    margin: 20px;
 }
 #name{
-    align-items:flex-center;
+    padding: 20px;
+    margin: 20px;
 }
 #search input[type=text]{
     float: right;
@@ -39,11 +44,13 @@ h1 {
 }
 
 #banner {
-background-color: light grey;
-display:flex;
-border 10px solid;
-height: 10vh;
-align-items: flex-start;
+    background-color: light grey;
+    display:flex;
+    border: 10px solid;
+    height: 10vh;
+    align-items: flex-start;
+    padding:20px;
+    margin:20px;
 }
 #banner > img:rotate{
     width: 1030px;
@@ -52,34 +59,48 @@ align-items: flex-start;
 
 #middle{
     display:flex;
-    border 10px solid white;
+    border: 10px solid white;
     height: 50vh;
     align-items: flex-center;
+    padding: 20px;
+    margin: 20px;
 }
 
 #events{
     background-color: blue;
+    padding:20px;
+    margin:20px;
 }
 #bottom {
     background-color: blue;
     display:flex;
     align-items: flex-center;
+    padding:20px;
+    margin:20px;
 }
 #contact {
     color: grey;
     background-image: url("map.jpg");
     width: 33%;
+    margin:20px;
+    padding: 20px;
 }
 #links{
     width: 33%;
+    padding: 20px;
+    margin: 20px;
 }
 #social{
     display:flex;
-    border 10px solid;
+    border: 10px solid;
     height: 10vh;
     align-items: flex-start;
     width: 33%;
+    padding: 20px;
+    margin: 20px;
 }
 #footer {
     background-color: green;
+    padding: 20px;
+    margin: 20px;
 }
