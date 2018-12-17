@@ -17,6 +17,10 @@ h1 {
     color:blue
     text-decoration: none;
 }
+#header{
+    display:flex;
+    align-items:flex-start;
+}
 
 #banner {
 background-color: light grey;
@@ -24,6 +28,9 @@ display:flex;
 border 10px solid;
 height: 10vh;
 align-items: flex-start;
+}
+#banner > img:hover{
+    
 }
 
 #middle{
@@ -42,6 +49,7 @@ align-items: flex-start;
 }
 #contact {
     color: grey;
+    background-image: url("map.jpg");
 }
 #social{
     display:flex;
