@@ -17,6 +17,38 @@ h1 {
     color:blue
     text-decoration: none;
 }
+
+
+#home{
+    width:10%;
+}
+
+#about{
+    width:10%;
+}
+
+#work{
+    width:10%;
+}
+
+#ed{
+    width:10%;
+}
+
+#opp{
+    width: 10%;
+}
+
+#travel{
+    width: 10%;
+}
+
+#careers{
+    width: 10%;
+}
+#faqs{
+    width: 10%;
+}
 #header{
     display:flex;
     align-items:flex-center;
@@ -85,7 +117,7 @@ h1 {
     width: 50%;
 }
 
-funding-right{
+#funding-right{
     width: 50%;
 }
 
