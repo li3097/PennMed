@@ -86,10 +86,16 @@ h1 {
     margin:20px;
     padding: 20px;
 }
+#contact p{
+    text-decoration-color: white;
+}
 #links{
     width: 33%;
     padding: 20px;
     margin: 20px;
+}
+#links a{
+    text-decoration-color: white;
 }
 #social{
     display:flex;
@@ -103,4 +109,5 @@ h1 {
     background-color: green;
     padding: 20px;
     margin: 20px;
+    text-align: center;
 }
