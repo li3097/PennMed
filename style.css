@@ -19,36 +19,22 @@ h1 {
 }
 
 
-#home{
+#mission{
     width:10%;
 }
 
-#about{
+#team{
     width:10%;
 }
 
-#work{
+#scholars{
     width:10%;
 }
 
-#ed{
+#health{
     width:10%;
 }
 
-#opp{
-    width: 10%;
-}
-
-#travel{
-    width: 10%;
-}
-
-#careers{
-    width: 10%;
-}
-#faqs{
-    width: 10%;
-}
 #header{
     display:flex;
     align-items:flex-center;
