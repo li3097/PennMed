@@ -19,7 +19,7 @@ h1 {
 }
 #header{
     display:flex;
-    align-items:flex-start;
+    align-items:flex-center;
 }
 
 #banner {
@@ -38,7 +38,7 @@ align-items: flex-start;
     display:flex;
     border 10px solid white;
     height: 50vh;
-    align-items: flex-start;
+    align-items: flex-center;
 }
 
 #events{
@@ -47,6 +47,7 @@ align-items: flex-start;
 #bottom {
     background-color: blue;
     display:flex;
+    align-items: flex-center;
 }
 #contact {
     color: grey;
