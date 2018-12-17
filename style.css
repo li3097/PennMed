@@ -93,7 +93,6 @@ h1 {
 }
 #social{
     display:flex;
-    border: 10px solid;
     height: 10vh;
     align-items: flex-start;
     width: 33%;
