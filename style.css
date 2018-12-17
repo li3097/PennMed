@@ -28,10 +28,12 @@ h1 {
     align-items:flex-start;
     padding: 20px;
     margin: 20px;
+    width: 33%;
 }
 #name{
     padding: 20px;
     margin: 20px;
+    width: 33%;
 }
 #search input[type=text]{
     float: right;
@@ -41,6 +43,7 @@ h1 {
     margin-right: 16px;
     font-size: 12px;
     align-items:flex-end;
+    width: 33%;
 }
 
 
