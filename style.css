@@ -73,6 +73,14 @@ h1 {
     margin: 20px;
 }
 
+#funding{
+    padding:20px;
+    margin:20px; 
+}
+
+#funding ul left{
+    
+}
 #events{
     background-color: #3398CC;
     padding:20px;
@@ -101,8 +109,8 @@ h1 {
 }
 #links{
     width: 33%;
-    padding: 20px;
-    margin: 20px;
+    padding: 10px;
+    margin: 10px;
 }
 #links a{
     text-decoration-color: white;
@@ -112,8 +120,8 @@ h1 {
     height: 10vh;
     align-items: flex-start;
     width: 33%;
-    padding: 20px;
-    margin: 20px;
+    padding: 10px;
+    margin: 10px;
 }
 #footer {
     background-color: #185766;
