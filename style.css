@@ -20,11 +20,16 @@ h1 {
 
 #banner {
 background-color: light grey;
+display:flex;
+border 10px solid;
+height: 10vh;
+align-items: flex-start;
 }
+
 #middle{
     display:flex;
     border 10px solid white;
-    height: 100vh;
+    height: 10vh;
     align-items: flex-start;
 }
 
@@ -37,6 +42,12 @@ background-color: light grey;
 }
 #contact {
     color: grey;
+}
+#social{
+    display:flex;
+    border 10px solid;
+    height: 10vh;
+    align-items: flex-start;
 }
 #footer {
     background-color: green;
