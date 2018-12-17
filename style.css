@@ -29,8 +29,9 @@ border 10px solid;
 height: 10vh;
 align-items: flex-start;
 }
-#banner > img:hover{
-
+#banner > img:rotate{
+    width: 1030px;
+    height: 300px;
 }
 
 #middle{
