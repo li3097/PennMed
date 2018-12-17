@@ -10,7 +10,7 @@ h1 {
 }
 
 #nav {
-    background-color: red;
+    background-color: #9D202E;
     text-decoration-color: white;
 }
 #nav >menu:hover{
@@ -45,7 +45,7 @@ h1 {
 
 
 #carousel-innner {
-    background-color: light grey;
+    background-color: #E4E9ED;
     display:flex;
     border: 10px solid;
     height: 10vh;
@@ -60,7 +60,7 @@ h1 {
 
 #carousel-inner a href{
     text-align: center;
-    text-decoration-color: red;
+    text-decoration-color: #C2858D;
 }
 
 #middle{
@@ -74,12 +74,16 @@ h1 {
 }
 
 #events{
-    background-color: lightblue;
+    background-color: #3398CC;
     padding:20px;
     margin:20px;
 }
+#events date{
+    text-decoration-color: #95A77D;
+}
+
 #bottom {
-    background-color: lightblue;
+    background-color: #3398CC;
     display:flex;
     align-items: flex-center;
     padding:20px;
@@ -112,7 +116,7 @@ h1 {
     margin: 20px;
 }
 #footer {
-    background-color: green;
+    background-color: #185766;
     padding: 20px;
     margin: 20px;
     text-align: center;
