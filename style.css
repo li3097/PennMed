@@ -10,15 +10,21 @@ h1 {
 }
 
 #nav {
-    background-color: #9D202E;
+    
     text-decoration-color: white;
     display: block;
     text-align:center;
     flex-direction: row;
+    border: 10px;
 }
-#nav >menu:hover{
+#menu a:hover{
     color:blue
     text-decoration: none;
+}
+
+#topnav{
+    display: flex;
+    background-color: #9D202E;
 }
 
 @media screen and (max-width: 600px) {
