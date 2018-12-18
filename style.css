@@ -24,6 +24,10 @@ h1 {
     background-color: #9D202E;
 }
 
+#topnav a{
+    padding: 5px;
+}
+
 @media screen and (max-width: 600px) {
     nav a, nav input[type=text] {
       float: none;
