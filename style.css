@@ -150,7 +150,7 @@ h1 {
     margin:20px;
 }
 #contact {
-    color: grey;
+    background-color: grey;
     background-image: url("map.jpg");
     width: 33%;
     margin:20px;
