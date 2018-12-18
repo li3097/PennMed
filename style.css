@@ -11,16 +11,13 @@ h1 {
 
 #nav {
     
-    text-decoration-color: white;
+    color: white;
     display: block;
     text-align:center;
     flex-direction: row;
     border: 10px;
 }
-#menu a:hover{
-    color:blue
-    text-decoration: none;
-}
+
 
 #topnav{
     display: flex;
