@@ -112,6 +112,7 @@ h1 {
     align-items: flex-center;
     margin-top: 25px;
     margin: 20px;
+    padding: 10px;
 }
 
 #funding{
@@ -128,7 +129,7 @@ h1 {
 
 #events{
     background-color: #3398CC;
-    padding:5px;
+    padding:20px;
     
 }
 #events p{
@@ -144,8 +145,8 @@ h1 {
     background-color: #3398CC;
     display:flex;
     align-items: flex-center;
-    padding:50px;
-    margin:20px;
+    padding:20px;
+    margin:50px;
 }
 #contact {
     background-color: grey;
