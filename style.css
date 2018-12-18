@@ -56,23 +56,14 @@ h1 {
 
 #header-container{
     display:flex;
-    align-items:flex-center;
+    align-items:flex-start;
     padding: 20px;
     margin: 20px;
     background-color: #E7E8E0;
     flex-direction: row;
 }
 
-#logo{
-    align-items:flex-start;
-    padding: 20px;
-    margin: 20px;
-}
-#name{
-    padding: 20px;
-    margin: 20px;
-}
-#search input[type=text]{
+#header-container header input[type=text]{
     float: center;
     padding: 6px;
     border: none;
