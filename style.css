@@ -161,7 +161,6 @@ h1 {
 }
 #links{
     width: 33%;
-    padding: 5px;
     margin: 10px;
 }
 #links a{
@@ -172,7 +171,6 @@ h1 {
     height: 10vh;
     align-items: flex-start;
     width: 33%;
-    padding: 10px;
     margin: 10px;
 }
 #footer {
