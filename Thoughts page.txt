@@ -1,0 +1,22 @@
+﻿Overall the project went well. I enjoyed adding the html tags and then going through the css part. It was neat to see the little changes that added up to the project. It challenges me a touch but generally I knew what was going on and have done some of this in the past. Its all in the little details that make this the beautiful project it needs to be. 
+
+The topnav is supposed to be a red background with padding space. I seem to need to work on this bit. 
+
+Also I have tried to put the logo, name, and search bar side by side but also I need to expand my skills on this as well. 
+
+I tried the carousel with the pictures and I clearly need to work on this.
+
+The placement text under the carousel of pictures needs to be centered which I attempted in my styles.css page but it also needs work. 
+
+I have an extra star and calendar on my middle section under the carousel pictures. I seem to not be able to improve this. 
+
+The funding opporunitites list is supposed to be in 2 columns. I could use some advice here on how to best approach this. 
+
+The Upcoming events needs spacing between the days and event name but I could also use some advice here. Can I just have a mentor walk me through some of this? 
+
+The bottom row looks most like its supposed to but I need some guidance on the grey background behind the Contact us with the map as well. 
+
+The padding and or margin needs help in the Social section but I have messed with it for a bit but I need to refresh my skills on this.
+
+The footer just needs the text color changed but the styles.css section has it there so I am unsure what is going on here. 
+
