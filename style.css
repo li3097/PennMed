@@ -85,7 +85,10 @@
     height: 300px;
 }
 
-#carousel-inner a href{
+#carousel-inner p{
+    text-align: center;
+}
+#arrow-icon {
     text-align: center;
     text-decoration-color: #C2858D;
 }
