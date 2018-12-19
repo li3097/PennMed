@@ -147,12 +147,12 @@
     width: 33%;
     margin: 10px;
 }
-#links a{
+#links p{
     text-decoration-color: white;
 }
 #social{
     display:flex;
-    height: 10vh;
+    height: 30vh;
     align-items: flex-start;
     width: 33%;
     margin: 10px;
