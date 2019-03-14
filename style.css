@@ -2,8 +2,7 @@
 @import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
 
 
-#nav {
-    
+#nav {    
     color: white;
     display: block;
     text-align:center;
@@ -30,26 +29,16 @@
       margin: 0;
       padding: 14px;
     }
+    
     nav input[type=text] {
       border: 1px solid #ccc;
     }
-  }
+}
 
-#mission{
+#mission, #team, #scholars, #health{
     width:10%;
 }
 
-#team{
-    width:10%;
-}
-
-#scholars{
-    width:10%;
-}
-
-#health{
-    width:10%;
-}
 
 #header-container{
     display:flex;
@@ -80,6 +69,7 @@
     padding:20px;
     margin:20px;
 }
+
 #carousel > img{
     width: 1030px;
     height: 300px;
@@ -88,6 +78,7 @@
 #carousel-inner p{
     text-align: center;
 }
+
 #arrow-icon {
     text-align: center;
     text-decoration-color: #C2858D;
@@ -107,26 +98,23 @@
     
 }
 
-#funding-left{
+#funding-left, #funding-right{
     width: 50%;
 }
 
-#funding-right{
-    width: 50%;
-}
 
 #events{
     background-color: #3398CC;
     padding:20px;
     
 }
+
 #events p{
-    text-decoration-color: #95A77D;
-    
+    text-decoration-color: #95A77D;    
 }
+
 #events-right{
-    text-decoration-color: white;
-    
+    text-decoration-color: white;    
 }
 
 #bottom-container {
@@ -136,6 +124,7 @@
     padding:20px;
     margin:50px;
 }
+
 #contact {
     background-color: grey;
     background-image: url("map.jpg");
@@ -143,16 +132,20 @@
     margin:20px;
     padding: 20px;
 }
+
 #contact p{
     text-decoration-color: white;
 }
+
 #links{
     width: 33%;
     margin: 10px;
 }
+
 #links p{
     text-decoration-color: white;
 }
+
 #social{
     display:flex;
     height: 30vh;
@@ -160,6 +153,7 @@
     width: 33%;
     margin: 10px;
 }
+
 #footer {
     background-color: #185766;
     padding: 20px;
